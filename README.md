@@ -38,15 +38,6 @@ To enable full functionality, configure Firebase:
 flutterfire configure
 ```
 
-## 💪 Contributing
-We welcome contributions! To contribute:
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-name`).
-3. Commit changes (`git commit -m "Added new feature"`).
-4. Push to your branch (`git push origin feature-name`).
-5. Open a Pull Request.
-
 ## 🔧 Running the App
 To run the app, use the following command:
 

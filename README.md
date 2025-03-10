@@ -12,7 +12,7 @@ A **Flutter-based** application designed to assist elderly people in their daily
 ✅ Secure document upload and privacy settings  
 ✅ Admin role for managing legal and financial content  
 
-## 📅 Installation
+## 🗕️ Installation
 
 Clone the repository and run the following commands:
 
@@ -61,3 +61,4 @@ flutter test
 
 ## 🌟 License
 This project is licensed under the [MIT License](LICENSE).
+
